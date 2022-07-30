@@ -17,7 +17,7 @@ module.exports = {
   kvPrefix: process.env.KV_PREFIX || '1111',
 
   // The name of your website. Present alongside your icon.
-  title: "教育版onedrive",
+  title: "1号",
 
   // The folder that you are to share publicly with onedrive-vercel-index. Use '/' if you want to share your root folder.
   baseDirectory: '/',
